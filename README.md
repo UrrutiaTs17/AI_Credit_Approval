@@ -1,6 +1,10 @@
 # AI Credit Approval
 
-![image](https://github.com/user-attachments/assets/3a26b187-52d9-4188-811a-3f833d63e3fd)
+<p align="center">
+  <img src="https://github.com/UrrutiaTs17/AI_Credit_Approval/blob/main/Banner_proyecto.jpg?raw=true" alt="Banner del proyecto" width="100%">
+</p>
+
+
 Este proyecto implementa un sistema de aprobación de crédito basado en inteligencia artificial. Se ha desarrollado como parte de un trabajo académico para analizar y predecir la aprobación de créditos bancarios utilizando modelos de machine learning.
 
 ---
