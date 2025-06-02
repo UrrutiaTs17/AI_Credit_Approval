@@ -12,7 +12,13 @@ Este proyecto implementa un sistema de aprobación de crédito basado en intelig
 
 ---
 
-## 🎯 Objetivos
+## ✍️ Objetivo General
+
+Clasificar a los aspirantes a una tarjeta de crédito basandose en las características socioeconómicas, usando modelos de Machine Learning y técnicas de Aprendizaje No Supervisado.
+
+---
+
+## 🎯 Objetivos Especificos
 
 - Analizar un dataset relacionado con solicitudes de crédito.
 - Preprocesar los datos para adecuarlos a modelos de machine learning.
