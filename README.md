@@ -66,4 +66,4 @@ Se evaluaron usando métricas como accuracy, precisión, recall y f1 score.
 - 📁 Repositorio del proyecto: [GitHub - AI_Credit_Approval](https://github.com/UrrutiaTs17/AI_Credit_Approval)
 - 📄 Dataset original: [ Credit Approval Dataset](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)
 - 📄 Presentación proyecto: [ Diapositivas](https://docs.google.com/presentation/d/e/2PACX-1vRf5nY9BlEA72I7XUA8E_E3MR2XAzvO8B3DMApfxea7NjpaDgxP2Beizv20OC4wPduYaNvLrPiHu-B5/pub?start=false&loop=true&delayms=10000)
-- 📄 Video del proyecto: [ Video explicativo]()
+- 📄 Video del proyecto: [ Video explicativo](https://youtu.be/d9YYs7EAIAc)
